@@ -4,9 +4,10 @@ theme: "starter-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: '' # Website URL
+title: Yann Ciarán Ryan # Website name
+baseurl: 'https://yann-ryan.github.io/site' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
+publishdir: ../site
 
 ############################
 ## LANGUAGE
